@@ -1,0 +1,8 @@
+<resources>
+    <string name="caption_meeting">打合せ</string>
+    <string name="caption_delivery">配達</string>
+    <string name="caption_interview">採用面接</string>
+    <string name="caption_other">その他</string>
+    <string name="toast_calling">ただいま呼び出しております...</string>
+    <string name="toast_error">エラーが発生しました</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Receptor</string>
+    <string name="slack_token">xoxb-hoge-fuga-piyo</string>
+    <string name="bot_name">receptor</string>
+    <string name="caption_meeting">Meeting</string>
+    <string name="caption_delivery">Delivery</string>
+    <string name="caption_interview">Interview</string>
+    <string name="caption_other">Other</string>
+    <string name="toast_calling">Now calling...</string>
+    <string name="toast_error">Error occurred</string>
+</resources>
